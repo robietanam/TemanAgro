@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137476518325",
+    "project_id": "pbm-coba-2c0ab",
+    "storage_bucket": "pbm-coba-2c0ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137476518325:android:52869a790453309e90a9fc",
+        "android_client_info": {
+          "package_name": "com.coba.pbm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137476518325-bsbdrv0l17eblvbaegkokd9tonvorpi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coba.pbm",
+            "certificate_hash": "068fd5cb498ebb16c9589353fd8ff03208352232"
+          }
+        },
+        {
+          "client_id": "137476518325-errsmban3kj15cr24c50ofrg2l7iafhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRLj6EvqPvfnvYmlcDKt0rg1vTCRJgzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137476518325-errsmban3kj15cr24c50ofrg2l7iafhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
